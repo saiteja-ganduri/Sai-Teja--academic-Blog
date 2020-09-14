@@ -23,6 +23,7 @@ bio: My interests include Full Stack Development, Machine Learning and Data Scie
 interests:
 - Artificial Intelligence
 - Web Designing
+- Data Science
 
 
 education:
